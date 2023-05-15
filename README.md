@@ -3,7 +3,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnatoliiPozniak "Contact on Telegram")
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Anatolii.pznk@gmail.com "Connect via Email")
 ## 
-<a href="#"><img alt="Slytherin" src="https://img.shields.io/badge/-Slytherin-green?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-blue?logo=django&logoColor=white"></a>
 <a href="#"><img alt="FastAPI" src ="https://img.shields.io/badge/-FastAPI-success?logo=fastapi&logoColor=white"></a>
@@ -20,6 +19,7 @@
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Slytherin" src="https://img.shields.io/badge/-Slytherin-green?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
