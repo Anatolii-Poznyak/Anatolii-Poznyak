@@ -27,5 +27,5 @@
 <a href="#"><img alt="Redis" src="https://img.shields.io/badge/-Redis-blue?logo=redis&logoColor=white"></a>
 <a href="#"><img alt="Celery" src="https://img.shields.io/badge/-Celery-success?logo=celery&logoColor=white"></a>
 
-![Snake animation](https://github.com/Anatolii-Poznyak/Anatolii-Poznyak/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Anatolii-Poznyak/blob/output/github-contribution-grid-snake.svg)
 
