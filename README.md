@@ -8,24 +8,25 @@
 <a href="#"><img alt="FastAPI" src ="https://img.shields.io/badge/-FastAPI-success?logo=fastapi&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="Traefik" src="https://img.shields.io/badge/Traefik-24A1C1.svg?logo=traefikproxy&logoColor=white"></a>
+<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
+<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="Travis CI" src="https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?logo=travis&logoColor=white"></a>
+<a href="#"><img alt="AsyncIO" src="https://img.shields.io/badge/AsyncIO-3776AB.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Redis" src="https://img.shields.io/badge/-Redis-blue?logo=redis&logoColor=white"></a>
+<a href="#"><img alt="Celery" src="https://img.shields.io/badge/-Celery-success?logo=celery&logoColor=white"></a>
 <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
 <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+<a href="#"><img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-6DB33F.svg?logo=testing-library&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Slytherin" src="https://img.shields.io/badge/-Slytherin-green?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-<a href="#"><img alt="Redis" src="https://img.shields.io/badge/-Redis-blue?logo=redis&logoColor=white"></a>
-<a href="#"><img alt="Celery" src="https://img.shields.io/badge/-Celery-success?logo=celery&logoColor=white"></a>
-
-[//]: <![Snake animation](https://github.com/Anatolii-Poznyak/Anatolii-Poznyak/blob/output/github-contribution-grid-snake.gif)>
-
